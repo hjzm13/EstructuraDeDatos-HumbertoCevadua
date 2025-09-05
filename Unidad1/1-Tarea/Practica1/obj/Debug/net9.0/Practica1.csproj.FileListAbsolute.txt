@@ -26,3 +26,4 @@ C:\Users\javi2\OneDrive\Escritorio\Aumada. EstructuradeDatos\vscode\Unidad1\1-Ta
 C:\Users\javi2\OneDrive\Escritorio\Aumada. EstructuradeDatos\vscode\Unidad1\1-Tarea\Practica1\obj\Debug\net9.0\Practica1.pdb
 C:\Users\javi2\OneDrive\Escritorio\Aumada. EstructuradeDatos\vscode\Unidad1\1-Tarea\Practica1\obj\Debug\net9.0\Practica1.genruntimeconfig.cache
 C:\Users\javi2\OneDrive\Escritorio\Aumada. EstructuradeDatos\vscode\Unidad1\1-Tarea\Practica1\obj\Debug\net9.0\ref\Practica1.dll
+C:\Users\javi2\OneDrive\Escritorio\Aumada. EstructuradeDatos\vscode\Unidad1\1-Tarea\Practica1\obj\Debug\net9.0\Practica1.sourcelink.json
