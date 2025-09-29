@@ -1,0 +1,36 @@
+1-listas(15 puntos)
+crea un programa que :
+#reciba nombre sde alumnos hasta que se escriba fin
+#guarde esso nombres en una lista
+#muestra la lista completa y cuantos alumnos se registraron
+
+
+2- pila(15 puntos)
+simula una pila de navegacion en un navegador web:
+#insertar tres paginas web gogle.com, wikepedia.org,open.iterativa
+#el usuario presiona volver una vez
+#muesta la pagina actial (la del tope de la pila)
+
+3- cola(15 puntos)
+simule una cola de impresion
+#los documentos llegan en este orden: doc1.pdf,tarea.docx,presentacion.pptx
+#atiende(elimina el documento en la cola)
+#llega un nuevo documento informe.pdf
+#muestre el orden de impresion final. 
+
+4-tienes una lista de 10,000 estudiantes ordenada  por nombre. que al goritmo de busquedas usarias para encontrar
+un estudiante especifico y porque? (5 puntos)
+
+5-explica con un ejemplo rapido con un ejemplo practico pirque la diferencia entre o(n) y o(n^2)
+es importante en aplicaciones reales(10 puntos)
+
+6- Tienes que ordenar una lista de 100 numeros que esta casi ordenada. que algoritmo elegirias y porque?(5 puntos)
+
+7- hasta que valorde n podrias calcular fibonacci usando la version recursiva antes de que sea demasiado lento?
+Y con la version iterativa?(5punts)
+r= si es mayor a 35 seria lenta y con la otra version es mas relajada y no diria que tiene un limite.
+
+8- disenia un sistema que use diferentes estructuras de datos y algoritmos para optimizar estas operaciones:(40puntos)
+#busqueda de usuarios por id(1,000,000  usuarios)
+#ordenaminetos de productos por precio (10,000 productos)
+#calculo de estadistica en tiempo reales
